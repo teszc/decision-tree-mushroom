@@ -2,6 +2,8 @@ This project implements binary decision tree predictors from scratch to classify
 
 The goal is to build interpretable tree-based models that use simple, single-feature binary tests to make classification decisions.
 
+Dataset: https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset
+
 data/
 Contains the dataset and all preprocessed files.
 
