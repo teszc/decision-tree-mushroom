@@ -1,3 +1,7 @@
+This project implements binary decision tree predictors from scratch to classify mushrooms as poisonous or edible using features extracted from a mushroom dataset.
+
+The goal is to build interpretable tree-based models that use simple, single-feature binary tests to make classification decisions.
+
 data/
 Contains the dataset and all preprocessed files.
 
@@ -68,3 +72,6 @@ No information leakage from test/validation data during preprocessing or trainin
 
 Tree predictors use single-feature binary tests (thresholding for numeric and set-membership for categorical).
 
+The final PDF report summarizing the methodology, implementation, results, and findings is also included under
+
+**Mushroom_mach_learning.pdf**
