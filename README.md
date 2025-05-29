@@ -74,7 +74,7 @@ No information leakage from test/validation data during preprocessing or trainin
 
 Tree predictors use single-feature binary tests (thresholding for numeric and set-membership for categorical).
 
-The final PDF report summarizing the methodology, implementation, results, and findings is also included under
+The final PDF report summarizing the methodology, implementation, results, and findings is also included as:
 
-**Mushroom_mach_learning.pdf** [Mushroom_mach_learning.pdf](https://github.com/user-attachments/files/20509452/Mushroom_mach_learning.pdf)
+[Mushroom_mach_learning.pdf](https://github.com/user-attachments/files/20509452/Mushroom_mach_learning.pdf)
 
