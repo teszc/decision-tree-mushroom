@@ -76,4 +76,5 @@ Tree predictors use single-feature binary tests (thresholding for numeric and se
 
 The final PDF report summarizing the methodology, implementation, results, and findings is also included under
 
-**Mushroom_mach_learning.pdf**
+**Mushroom_mach_learning.pdf** [Mushroom_mach_learning.pdf](https://github.com/user-attachments/files/20509452/Mushroom_mach_learning.pdf)
+
